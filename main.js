@@ -37,7 +37,7 @@ const renderCartDom = () => {
   });
 };
 
-listnersForButtons = () => {
+const listnersForButtons = () => {
   const AddToCartButtons = document.querySelectorAll(
     '[data-action="ADD_TO_CART"]'
   );
