@@ -1,5 +1,5 @@
 # shoppingCart
-Simple shoppingCart with vanillaJs.
+Simple shoppingCart with VanillaJs.
 - css and html code is borrowed.
 
 # I learned:
